@@ -1,16 +1,18 @@
 ## Hi there 👋
+# こんにちは！エンジニアを目指して学習中の [syun] です 🚀
 
-<!--
-**31702515a-dotcom/31702515a-dotcom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+21歳からプログラミングをスタートしました。
+エンジニア就職に向けて、日々の学習記録を積み上げています。
 
-Here are some ideas to get you started:
+## 💡 現在の学習内容
+- **言語:** Python (基礎・自動化プログラム)
+- **ツール:** GitHub, コマンドプロンプト
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ できたことリスト
+- [x] Pythonの環境構築 (3.14.2)
+- [x] 自動フォルダ作成プログラムの実行
+- [x] 日時取得・自動ファイル書き込みプログラムの作成
+- [x] GitHubへの初コミット
+
+## 📅 目標
+- エンジニアとして実務に就く！
